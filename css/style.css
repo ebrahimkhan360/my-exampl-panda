@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@700&family=Rubik+Beastly&display=swap');
+body{
+    font-family: 'Roboto Slab', serif;
+}
+body .txt{
+    font-family: 'Rubik Beastly', cursive;
+}
+.btn-color{
+    background-color: #c2c26f;
+}
+.caorusel-backgraund{
+    background-color: #feeae9;
+    margin-top: 100px;
+}
